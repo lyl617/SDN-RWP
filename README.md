@@ -24,5 +24,7 @@ a shell of iperf server
  
 a shell of iperf client
 
+## flows_xxxxx.txt
 
+There are five kinds of information, including flow size, flow completion time, flow dscp, flow sending rate and flow goodput.
  
